@@ -1,0 +1,2 @@
+# Flake8 configuration disabled
+# Linting with flake8 removed from CI per request
